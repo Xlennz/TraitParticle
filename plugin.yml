@@ -2,7 +2,7 @@ name: TraitParticle
 main: Astro\TraitParticle\Main
 version: 1.0.0
 api: 5.0.0
-author: AstroKotlin
+author: Xlennz
 description: A plugin trait particle for server software PocketMine-MP.
 commands:
  traitparticle:
