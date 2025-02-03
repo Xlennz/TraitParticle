@@ -1,0 +1,15 @@
+name: TraitParticle
+main: Astro\TraitParticle\Main
+version: 1.0.0
+api: 5.0.0
+author: AstroKotlin
+description: A plugin trait particle for server software PocketMine-MP.
+commands:
+ traitparticle:
+  aliases: 
+  - traitp
+  description: Main command for TraitParticle
+  permission: traitparticle.command
+permissions:
+ traitparticle.command:
+  default: op
